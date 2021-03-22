@@ -1,0 +1,41 @@
+
+.recipe {
+    padding: 20px;
+    background: white;
+    border-radius: 19px;
+    margin-top: 20px;
+    max-width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    box-shadow: 2px 5px 15px black;
+}
+
+
+.img {
+    border-radius: 15%;
+    margin-top: 15px;
+}
+
+p{
+    font-size: larger;
+    font-family: cursive;
+}
+
+ol {
+    text-align: center;
+    font-size: 1.1em;
+    border: solid 3px black;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    padding: 5% 20%;
+    width: 60%;
+    margin: auto;
+}
+
+.li-ingredientes{
+    font-size: 0.8em;
+    border-bottom: solid 1px grey;
+    padding: 6px 0px;
+}
